@@ -1,0 +1,4 @@
+pandas
+openpyxl
+
+Para instalar estos paquetes: pip install -r .\requirements.txt
