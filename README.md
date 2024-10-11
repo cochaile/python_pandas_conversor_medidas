@@ -6,3 +6,7 @@ Para poder utilizar este proyecto después de clonarlo debes hacer en la carpeta
 '''
 pip install -r requirements.txt
 '''
+Una vez hecho esto, para que convierta el EXcel de CM a Pulgadas debemos ejecutar en consola:
+'''
+python programa_conversor.Py
+'''
